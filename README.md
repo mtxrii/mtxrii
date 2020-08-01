@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://devpost.com/software/safer-at-home">
+    <img src="images/undraw_feeling_proud.png" alt="Splash" width="320">
+  </a>
+</p>

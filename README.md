@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <img src="images/undraw_feeling_proud.png" alt="Splash" width="320">
+    <img src="https://raw.githubusercontent.com/mtxrii/mtxrii/master/images/undraw_feeling_proud.png" alt="Splash" width="320">
 </p>

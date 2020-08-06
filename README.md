@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/mtxrii/mtxrii/master/images/undraw_feeling_proud.png" alt="Splash" width="320">
+    <a href="https://edavalos.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/mtxrii/mtxrii/master/images/undraw_feeling_proud.png" alt="Splash" width="320">
+    </a>
 </p>

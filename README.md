@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
     <a href="https://edavalos.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/mtxrii/mtxrii/master/images/Daco_4753327.png" alt="Splash" width="320">
+        <img src="https://raw.githubusercontent.com/mtxrii/mtxrii/master/images/Tree.png" alt="Splash" width="320">
     </a>
 </p>
 <h1 align="center">

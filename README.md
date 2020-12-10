@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 -->
 <p align="center">
     <a href="https://edavalos.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/mtxrii/mtxrii/master/images/undraw_feeling_proud.png" alt="Splash" width="320">
+        <img src="https://raw.githubusercontent.com/mtxrii/mtxrii/master/images/Daco_4753327.png" alt="Splash" width="320">
     </a>
 </p>
+<h1 align="center">
+    Mtxrii
+</h1>
+
+Hey, I'm Enrique. I'm a 3rd year computer science student at the University of California, Santa Cruz.
 
 <div text-align="center">
     <a href="https://www.linkedin.com/in/enrique-davalos/">

@@ -21,7 +21,17 @@ Here are some ideas to get you started:
     Mtxrii
 </h1>
 
-Hey, I'm Enrique. I'm a 3rd year computer science student at the University of California, Santa Cruz.
+Hey, I'm Enrique. I'm a 3rd year computer science student at the University of California, Santa Cruz. 🐌
+
+### Top Languages
+#### 📗 Human:
+* English
+* Spanish
+#### 💻 Computer:
+* Java
+* Python
+* JavaScript
+* Go
 
 <div text-align="center">
     <a href="https://www.linkedin.com/in/enrique-davalos/">

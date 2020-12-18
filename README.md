@@ -32,15 +32,3 @@ Hey, I'm Enrique. I'm a 3rd year computer science student at the University of C
 * Python
 * JavaScript
 * Go
-
-<div text-align="center">
-    <a href="https://www.linkedin.com/in/enrique-davalos/">
-      <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a href="https://twitter.com/mtxrii">
-      <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    </a>
-    <a href="https://www.instagram.com/aperture.jpg/">
-      <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    </a>
-</div>

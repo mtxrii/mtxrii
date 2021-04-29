@@ -33,4 +33,6 @@ Hey, I'm Enrique. I'm a 3rd year computer science student at the University of C
 * JavaScript
 * Go
 
-![Devpost Link](https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png)
+<a href="https://edavalos.com/" target="_blank">
+    <img src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" alt="Devpost link" width="64">
+</a>

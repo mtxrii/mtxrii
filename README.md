@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 Hey, I'm Enrique. I'm a 3rd year computer science student at the University of California, Santa Cruz. 🐌
 
+<p align="center">
+    <a href="https://edavalos.com/" target="_blank">
+        <img src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" alt="Devpost link" width="64">
+    </a>
+</p>
+
 ### Top Languages
 #### 📗 Human:
 * English
@@ -32,7 +38,3 @@ Hey, I'm Enrique. I'm a 3rd year computer science student at the University of C
 * Python
 * JavaScript
 * Go
-
-<a href="https://edavalos.com/" target="_blank">
-    <img src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" alt="Devpost link" width="64">
-</a>

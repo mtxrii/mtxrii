@@ -28,7 +28,7 @@ Hey, I'm Enrique. I'm a computer science graduate from the University of Califor
         <img src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" alt="Devpost link" width="64">
     </a>
     <a href="https://www.linkedin.com/in/enrique-davalos" target="_blank">
-        <img src="https://image.similarpng.com/very-thumbnail/2020/05/Linkedin-logo-in-hexagon-PNG.png" alt="LinkedIn link" width="64">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="LinkedIn link" width="64">
     </a>
 </p>
 

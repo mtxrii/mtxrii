@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     Mtxrii
 </h1>
 
-Hey, I'm Enrique. I'm a 4th year computer science student at the University of California, Santa Cruz. 🐌
+Hey, I'm Enrique. I'm a computer science graduate from the University of California, Santa Cruz. 🐌 and am now beginning my career as a software engineer.
 
 <p align="center">
     <a href="https://devpost.com/mtxrii" target="_blank">
